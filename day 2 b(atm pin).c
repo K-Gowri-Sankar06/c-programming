@@ -1,4 +1,5 @@
 #include<stdio.h>
+//
 int main(){
     int pin =2415;
     int userpin,attempt=3,wd,rb,amount=10000;
